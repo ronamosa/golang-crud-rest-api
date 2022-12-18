@@ -14,6 +14,10 @@
 !go.sum
 !go.mod
 
+!*.sh
+!config.json
+!api.rest
+
 !README.md
 !LICENSE
 

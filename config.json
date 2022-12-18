@@ -1,0 +1,4 @@
+{
+    "connection_string": "root:password@tcp(127.0.0.1:3306)/products",
+    "port": 8080
+}
