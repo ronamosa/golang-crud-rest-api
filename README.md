@@ -80,4 +80,4 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 
 ## Acknowledgments
 
-* Thanks [Mukesh] for the blog & code to get this project started.
+* Thanks [Mukesh](https://codewithmukesh.com/) for the blog & code to get this project started.
